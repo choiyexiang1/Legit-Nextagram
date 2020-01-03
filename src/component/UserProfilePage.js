@@ -10,6 +10,7 @@ const UserProfilePage = () => {
 
     return (
         <>
+            <h1>Hi</h1>
             <UserInfo id={id} />
             <UserGallery id={id} /></>
     )
